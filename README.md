@@ -7,7 +7,7 @@
     />
 </p>
 
-- 🌱 I’m currently learning **Angular and Spring Boot in #YoProgramo**
+- 🌱 I’m currently learning **Angular and Spring Boot in One Next Education**
 
 - 💬 Ask me about **Angular+SpringBoot**
 
