@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usui José</h1>
+<h1 align="center">Hi 👋, I'm ホセ・フェルナンド・臼井 (Hose Fuerunando Usui)</h1>
 <h3 align="center">Passionate about programming and systems analysis</h3>
 
 <p align="left">
@@ -7,9 +7,9 @@
     />
 </p>
 
-- 🌱 I’m currently learning **Angular and Spring Boot in One Next Education**
+- 🌱 I’m currently learning **Systems Engineering in Universidad de la Cuenca del Plata**
 
-- 💬 Ask me about **Angular+SpringBoot**
+- 💬 Ask me about **Java-FX**
 
 <a href="https://github.com/DevUsuiSama">
     <img
