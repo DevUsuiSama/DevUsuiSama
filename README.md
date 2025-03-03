@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm ホセ・フェルナンド・臼井 (Hose Fuerunando Usui)</h1>
+<p align="left">
+    <img
+        src="https://ci3.googleusercontent.com/meips/ADKq_NYSiEPgMlpOV_DRO8DO0anVf9g4iTZX5KcA2fd9xQNn__mu32DpCbyYcrLtpXTMXkvz8yXoK8J3E-0uomUm9DEXunlV-5Zw7bDEETCmRdVCu9ju5wMDddO1p5l3IQw=s0-d-e1-ft#https://marketing-assets.gcdn.co/p-01/prmp/2024/DIGEST/RandomBattles.png" alt="medalla"
+    />
+</p>
+
 <h3 align="center">Passionate about programming and systems analysis</h3>
 
 <p align="left">
